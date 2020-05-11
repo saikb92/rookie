@@ -11,3 +11,5 @@ c= input("enter the test")
 print("Sum of the given two numbers is: ", sum(a,b))
 print("Average of the given numbers is: ", avg(a,b))
 print("Input c:", c1)
+
+saikrishna
